@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16 oct. 2020, 10:43:14
+    Author     : Andres
+*/
+
+.Fondo1{
+    -fx-background-image: url("/org/una/laboratorio1/iconos/Fondo.png");
+}
+.Fondo2{
+    -fx-background-image: url("/org/una/laboratorio1/iconos/F3.jpg");
+}
+.Fondo3{
+    -fx-background-image: url("/org/una/laboratorio1/iconos/Abstract.jpg");
+}
